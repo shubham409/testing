@@ -1,0 +1,155 @@
+    1  python
+    2  alias
+    3  ls
+    4  dirs
+    5  ld
+    6  ls
+    7  alias back "cd .."
+    8  alias back="cd .."
+    9  ls
+   10  back
+   11  ls
+   12  back
+   13  back
+   14  ls
+   15  back
+   16  cd c
+   17  cd Users/
+   18  cd Admin/
+   19  cd Desktop/
+   20  ls
+   21  cat mytext.txt 
+   22  nano mytext.txt 
+   23  vim mytext.txt 
+   24  neofetch
+   25  nano ~/.bashrc
+   26  alias
+   27  alias
+   28  cd etc
+   29  ls
+   30  alias
+   31  desktop
+   32  cd c:
+   33  desktop
+   34  cd Users\Admin
+   35  cd Users/Admin
+   36  alias
+   37  clear
+   38  desktop
+   39  alias
+   40  ddrive
+   41  edrive
+   42  ls
+   43  ls -la
+   44  ls -lah
+   45  ls -l -a -h
+   46  clear
+   47  clear
+   48  clear
+   49  clear
+   50  alias
+   51  admin
+   52  users
+   53  users
+   54  users
+   55  Users
+   56  users
+   57  users
+   58  admin
+   59  clear
+   60  clear
+   61  desktop
+   62  my
+   63  git
+   64  cd main
+   65  main
+   66  toalias
+   67  alias
+   68  main
+   69  nanoalias 
+   70  toalias 
+   71  main
+   72  cd i:/All
+   73  cd i:\\All
+   74  cd i:\All
+   75  main
+   76  cd i:\\All Softwares\\Git\\Git
+   77  mnt
+   78  mvt
+   79  cd mnt
+   80  cd /mnt
+   81  cd /e
+   82  main
+   83  main
+   84  main
+   85  ls
+   86  toalias 
+   87  ls
+   88  nanoalias 
+   89  nanoalias
+   90  my
+   91  my
+   92  java -jar TestingFirebaseGradle.jar 
+   93  java -jar TestingFirebaseGradle.jar 
+   94  java -jar TestingFirebaseGradle.jar 
+   95  java -jar TestingFirebaseGradle.jar 
+   96  java -jar TestingFirebaseGradle.jar 
+   97  java -jar TestingFirebaseGradle.jar 
+   98  git -- version
+   99  ls
+  100  ls
+  101  s
+  102  ls
+  103  clear
+  104  ls 0ls
+  105  ls -ls
+  106  git config
+  107  clear
+  108  my
+  109  ls
+  110  ls
+  111  clear
+  112  touch index.html
+  113  ls
+  114  ls -la
+  115  ls
+  116  git init
+  117  clear
+  118  git add index.html 
+  119  git status
+  120  history
+  121  my
+  122  git config --golbal
+  123  git config --global
+  124  log
+  125  git log
+  126  cler
+  127  clear
+  128  ls 
+  129  ls 
+  130  help ls
+  131  ls help
+  132  man ls
+  133  man -k ls
+  134  info ls
+  135  clear
+  136  desktop
+  137  my
+  138  clear
+  139  git status 
+  140  clear
+  141  clear
+  142  clear
+  143  clear
+  144  clear
+  145  clear
+  146* clear▬
+  147  clear
+  148  clear
+  149  clear
+  150  git config
+  151  clear 
+  152  git config --global
+  153  history
+  154  touch history
+  155  history >> history
